@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Abderrahmen!
  * Software Engineer student @ [ENSIMAG] (https://ensimag.grenoble-inp.fr/en) (France's #1 IT engineering school)👩🏻‍🎓.
- *SWE Apprentice @ [Schneider Electric] (https://www.se.com/ww/en/) (3-year program)👩🏻‍💻.
+ * SWE Apprentice @ [Schneider Electric] (https://www.se.com/ww/en/) (3-year program)👩🏻‍💻.
 
 ## Current Works
  * Breaking into IT !!
