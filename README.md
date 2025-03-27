@@ -7,7 +7,7 @@
 
 ## 👩🏻‍💻 Current Works
  * Breaking into IT !!
- * On a 3-year apprenticeship @ [Schneider Electric](https://www.se.com/ww/en/) as a Junior Software and Data Model Engineer. I'm developing internal tools within a model-based system, leveraging diverse technologies. Continuously improving my programming and learning skills. 🌱
+ * On a 3-year apprenticeship @[Schneider Electric](https://www.se.com/ww/en/) as a Junior Software and Data Model Engineer. I'm developing internal tools within a model-based system, leveraging diverse technologies. Continuously improving my programming and learning skills. 🌱
    
 ## :computer: Technologies I Love
 * Backend developement 
