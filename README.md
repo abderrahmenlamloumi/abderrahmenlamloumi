@@ -1,6 +1,6 @@
 <h1>👋 Hey there! Abderrahmen (ABD_LML) here!</h1>
 
-## 🤔 A Bit About Me... 🤔!
+## 🤔 A Bit About Me...!
 
  * Software Engineer student @[ENSIMAG](https://ensimag.grenoble-inp.fr/en) (France's top-tier IT engineering school)👩🏻‍🎓.
  * SWE Apprentice @[Schneider Electric](https://www.se.com/ww/en/) (3-year program)👩🏻‍💻.
