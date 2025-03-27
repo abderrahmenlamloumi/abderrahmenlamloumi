@@ -2,8 +2,8 @@
 
 ## 🤔 A Bit About Me... 🤔!
 
- * Software Engineer student @ [ENSIMAG](https://ensimag.grenoble-inp.fr/en) (France's top-tier IT engineering school)👩🏻‍🎓.
- * SWE Apprentice @ [Schneider Electric](https://www.se.com/ww/en/) (3-year program)👩🏻‍💻.
+ * Software Engineer student @[ENSIMAG](https://ensimag.grenoble-inp.fr/en) (France's top-tier IT engineering school)👩🏻‍🎓.
+ * SWE Apprentice @[Schneider Electric](https://www.se.com/ww/en/) (3-year program)👩🏻‍💻.
 
 ## 👩🏻‍💻 Current Works
  * Breaking into IT !!
