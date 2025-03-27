@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Abderrahmen (ABD_LML) !</h1>
+<h1>👋 Hey there! Abderrahmen (ABD_LML) here!</h1>
 
 ## 🤔 A Bit About Me... 🤔!
 
