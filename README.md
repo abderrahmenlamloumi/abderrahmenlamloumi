@@ -27,9 +27,8 @@ width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/m
  
 
 ## Other Stuff
-  - :octocat: [My Resume]([https://github.com/abderrahmenlamloumi/abderrahmenlamloumi/blob/main/Abderrahmen-Lamloumi.pdf](https://raw.githubusercontent.com/abderrahmenlamloumi/abderrahmenlamloumi/blob/main/Abderrahmen-Lamloumi.pdf))
+   - :octocat: [My Resume](https://raw.githubusercontent.com/abderrahmenlamloumi/abderrahmenlamloumi/main/Abderrahmen-Lamloumi.pdf)
 
-   
 ## 📧 Contact 
  To get in touch or to give some ❤️ : [contact](mailto:lamloumiabderrahmen11@gmail.com) .
  
