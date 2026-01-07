@@ -13,8 +13,6 @@
 * Backend developement 
 * Machine Learning
 * Data Science
-* Frontend Development
-* Cybersecurity
 
 ## 👨‍💻 Programming Languages
 <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' height='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg' width='30'/>  <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'
@@ -25,9 +23,6 @@ width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/m
  ## 🧰 Technologies and Tools I Use
 <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width='33'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> 
  
-
-## Other Stuff
-   - :octocat: [My Resume](https://raw.githubusercontent.com/abderrahmenlamloumi/abderrahmenlamloumi/main/Abderrahmen-Lamloumi.pdf)
 
 ## 📧 Contact 
  To get in touch or to give some ❤️ : [contact](mailto:lamloumiabderrahmen11@gmail.com) .
