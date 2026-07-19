@@ -28,9 +28,9 @@ width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/m
  To get in touch or to give some ❤️ : [contact](mailto:lamloumiabderrahmen11@gmail.com) .
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abderrahmenlamloumi/abderrahmenlamloumi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abderrahmenlamloumi/abderrahmenlamloumi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/abderrahmenlamloumi/abderrahmenlamloumi/output/github-snake.svg" />
 </picture>
 
 
