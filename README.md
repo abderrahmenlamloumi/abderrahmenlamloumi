@@ -1,36 +1,50 @@
-<h1>👋 Hey there! Abderrahmen (ABD_LML) here!</h1>
+<h1>👋 Hey there! I'm Abderrahmen</h1>
 
-## 🤔 A Bit About Me...!
+### 🚀 Building scalable data platforms & distributed systems
 
- * Software Engineer student @[ENSIMAG](https://ensimag.grenoble-inp.fr/en) (France's top-tier IT engineering school)👩🏻‍🎓.
- * SWE Apprentice @[Schneider Electric](https://www.se.com/ww/en/) (3-year program)👩🏻‍💻.
+I am a Software Engineering student specializing in Information Systems and Data Platforms, currently doing a 3-year apprenticeship building data models and code generation tools. I am passionate about backend infrastructure, system observability, and bridging the gap between Data Engineering and MLOps.
 
-## 👩🏻‍💻 Current Works
- * Breaking into IT !!
- * On a 3-year apprenticeship @[Schneider Electric](https://www.se.com/ww/en/) as a Junior Software and Data Model Engineer. I'm developing internal tools within a model-based system, leveraging diverse technologies. Continuously improving my programming and learning skills. 🌱
-   
-## :computer: Technologies I Love
-* Backend developement 
-* Machine Learning
-* Data Science
+## 👨‍💻 About Me
+* 🎓 **Software Engineering Student** @ [ENSIMAG](https://ensimag.grenoble-inp.fr/en) (Information Systems Engineering - ISI).
+* 💼 **Apprentice Software & Data Engineer** @ [Schneider Electric](https://www.se.com/ww/en/).
+* 🎯 **Focusing on:** Distributed Systems, Data Platform Engineering, and MLOps Infrastructure.
+* 🏗️ **Currently building:** Data platforms and backend systems.
 
 ## 👨‍💻 Programming Languages
-<img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' height='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg' width='30'/>  <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'
-width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
- 
- ## 🧰 Technologies and Tools I Use
-<img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width='33'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> 
- 
+<p>
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" />
+  <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="35" />
+  <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" />
+  <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg' width='30'/>
+  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" />
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" />
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" />
+  <img alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35" />
+</p>
 
-## 📧 Contact 
- To get in touch or to give some ❤️ : [contact](mailto:lamloumiabderrahmen11@gmail.com) .
- 
+## 🧰 Technologies & Tools
+
+**Infrastructure & Systems**
+<p>
+  <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" />
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35" />
+  <img alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="35" />
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" />
+  <img alt="GitHub Actions" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="35" />
+</p>
+
+**Backend & Frameworks**
+<p>
+  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="35" />
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" />
+</p>
+
+## 📧 Contact
+Let's connect! Feel free to reach out via [Email](mailto:lamloumiabderrahmen11@gmail.com) or [LinkedIn](#https://www.linkedin.com/in/abderrahmen-lamloumi-6282a9294/").
+
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abderrahmenlamloumi/abderrahmenlamloumi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abderrahmenlamloumi/abderrahmenlamloumi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/abderrahmenlamloumi/abderrahmenlamloumi/output/github-snake.svg" />
 </picture>
-
-
