@@ -2,11 +2,10 @@
 
 ### 🚀 Building scalable data platforms & distributed systems
 
-I am a Software Engineering student specializing in Information Systems and Data Platforms, currently doing a 3-year apprenticeship building data models and code generation tools. I am passionate about backend infrastructure, system observability, and bridging the gap between Data Engineering and MLOps.
+I am a Software Engineering student specializing in Information Systems and Data Platforms. I am passionate about backend infrastructure, system observability, and bridging the gap between Data Engineering and MLOps.
 
 ## 👨‍💻 About Me
 * 🎓 **Software Engineering Student** @ [ENSIMAG](https://ensimag.grenoble-inp.fr/en) (Information Systems Engineering - ISI).
-* 💼 **Apprentice Software & Data Engineer** @ [Schneider Electric](https://www.se.com/ww/en/).
 * 🎯 **Focusing on:** Distributed Systems, Data Platform Engineering, and MLOps Infrastructure.
 * 🏗️ **Currently building:** Data platforms and backend systems.
 
